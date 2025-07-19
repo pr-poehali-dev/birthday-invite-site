@@ -78,19 +78,19 @@ const Index = () => {
               <div className="space-y-4 text-lg text-amber-800">
                 <div className="flex items-center justify-center gap-3">
                   <Icon name="Calendar" size={20} className="text-amber-600" />
-                  <span className="font-medium">15 августа 2025 года</span>
+                  <span className="font-medium">12 августа 2025 года</span>
                 </div>
                 <div className="flex items-center justify-center gap-3">
                   <Icon name="Clock" size={20} className="text-amber-600" />
-                  <span className="font-medium">19:00</span>
+                  <span className="font-medium">13:00</span>
                 </div>
                 <div className="flex items-center justify-center gap-3">
                   <Icon name="MapPin" size={20} className="text-amber-600" />
-                  <span className="font-medium">Ресторан "Золотой зал"</span>
+                  <span className="font-medium">Рославль </span>
                 </div>
                 <div className="flex items-center justify-center gap-3">
                   <Icon name="Navigation" size={20} className="text-amber-600" />
-                  <span className="font-medium">ул. Праздничная, 25</span>
+                  <span className="font-medium">ул. Свердлова 4</span>
                 </div>
               </div>
             </div>
